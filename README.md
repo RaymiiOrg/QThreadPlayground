@@ -4,6 +4,8 @@ This is a small repository to play around with different QThread parts.
 
 The goal was to put some "function" on its own thread to not block the user interface.
 
+Use the button to launch some workers and click the other button to see that the GUI thread is not blocked (the text box below should change colour).
+
 
 # Controller & Worker
 
